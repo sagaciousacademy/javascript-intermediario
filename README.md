@@ -12,5 +12,4 @@ Curso de Javascript da B7WEB - https://phpdozeroaoprofissional.com.br/
 
     http://bit.ly/portfolio-marcelo
     
-    http://github.com - automatic!
-[GitHub](http://github.com)
+    (http://bit.ly/portfolio-marcelo)
