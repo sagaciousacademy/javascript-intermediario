@@ -1,4 +1,4 @@
-# Módulo 6
+# Módulo 7
 
 ## Javascript Intermediário
 
