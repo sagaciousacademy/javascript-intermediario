@@ -11,3 +11,7 @@ http://bit.ly/curriculum-marcelo
 ## Acesse o meu Portfólio
 
 http://bit.ly/portfolio-marcelo
+
+## Visualizar data no formato brasileiro no console
+
+    dt.getDate()+"/"+dt.getMonth()+"/"+dt.getFullYear()
