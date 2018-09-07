@@ -14,4 +14,4 @@ http://bit.ly/portfolio-marcelo
 
 ## Visualizar data no formato brasileiro no console
 
-    dt.getDate()+"/"+dt.getMonth()+"/"+dt.getFullYear()
+    dt.getDate()+"/"+(dt.getMonth()+1)+"/"+dt.getFullYear()
