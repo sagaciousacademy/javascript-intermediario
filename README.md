@@ -15,6 +15,10 @@ Curso de Javascript da B7WEB - https://phpdozeroaoprofissional.com.br/
 
 ## Acesse o meu Portfólio
 
+http://bit.ly/portfolio-marcelo or <http://bit.ly/portfolio-marcelo>
+
+
+
 [meu portfolio](http://bit.ly/portfolio-marcelo)
 
 [meu portfolio](http://bit.ly/portfolio-marcelo "Google's Homepage")
